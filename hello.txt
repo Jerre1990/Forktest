@@ -1,1 +1,1 @@
-Hello I do not want to give my name
+Conflicted resolved by deleting the two lines.
